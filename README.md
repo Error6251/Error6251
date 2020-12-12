@@ -1,5 +1,5 @@
-# Hi there 👋
-### I'm Juhair Islam
+### Hi there 👋
+#### I'm Juhair Islam
 
 I'm a student... Learning Everyday.
 
