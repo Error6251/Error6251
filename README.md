@@ -1,19 +1,23 @@
 <div align="center">
-<h3>
+<h1>
 <i>Hi there</i> 👋
-</h3>
-<h4>
+<br/>
 I'm 👉 <b>Juhair Islam<b> 👈
-</h4>
-<hr>
-<h3>🔰</h3>
+</h1>
+<h3>
+🔰
+<br/>
+<br/>
+
 I'm a University 📖 Student 🧠
 <br/>
 Learning new things 🎁 Everyday 🤯
 <br/>
 I love Linux ☣️, JS ☢️❗️
 
-<hr>
+</h3>
+
+<h1></h1>
 <h3>
 💩 I'm Kinda NOOB 💩
 </h3>
