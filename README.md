@@ -19,6 +19,7 @@ I love Linux ☣️, JS ☢️❗️
 </h3>
 
 ![Juhair's github stats](https://github-readme-stats.vercel.app/api?username=Error6251&show_icons=true&theme=radical)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error6251&layout=compact&show_icons=true&theme=radical)](https://github.com/Error6251/Error6251)
 <br/>
 
