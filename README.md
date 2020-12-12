@@ -23,6 +23,6 @@ I love Linux ☣️, JS ☢️❗️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error6251&layout=compact&show_icons=true&theme=radical)](https://github.com/Error6251/Error6251)
 <br/>
 
-<h3>💤😪💤</h3>
+<h3>💤 😪 💤</h3>
 
 </div>
