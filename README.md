@@ -9,9 +9,9 @@ I'm 👉 <b>Juhair Islam<b> 👈
 <br/>
 <br/>
 
-I'm a University 📖 Student 🧠
+I'm a 📖 Student 🧠
 <br/>
-Learning new things 🎁 Everyday 🤯
+Learning something new 🎁 Everyday 🤯
 <br/>
 I love Linux ☣️, JS ☢️❗️
 
