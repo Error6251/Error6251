@@ -22,7 +22,7 @@ I love Linux ☣️, JS ☢️❗️
 💩 I'm Kinda NOOB 💩
 </h3>
 
-![Juhair's github stats](https://github-readme-stats.vercel.app/api?username=Error6251&show_icons=true&theme=radical)
+![Juhair's github stats](https://github-readme-stats.vercel.app/api?username=Error6251&show_icons=true&theme=radical&hide=stars,issues&count_private=true)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error6251&layout=compact&show_icons=true&theme=radical)](https://github.com/Error6251/Error6251)
 <br/>
