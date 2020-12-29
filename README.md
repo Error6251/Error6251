@@ -2,7 +2,7 @@
 <h1>
 <i>Hi there</i> 👋
 <br/>
-I'm 👉 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3Bc5msB0ZPSsWG6nyoeWueTA%3D%3D">Juhair Islam</a> 👈
+I'm 👉 <a href="https://www.linkedin.com/in/juhair-islam-9b7307160/">Juhair Islam</a> 👈
 </h1>
 <h3>
 🔰
