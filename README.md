@@ -9,13 +9,23 @@ I'm 👉 <a href="https://www.linkedin.com/in/juhair-islam-9b7307160/">Juhair Is
 <br/>
 <br/>
 
-I'm a 📖 Student 🧠
+I'm a 📖 Student
 <br/>
-Learning something new 🎁 Everyday 🤯
+Trying on different things,
 <br/>
-I love Linux ☣️, JS ☢️❗️
-
-💤 😪 💤
+Working as a JamStack Developer,
+<br/>
+Researching on Machine learning.
+<h1><h1/>
+👑
+<br/>
+KEEP
+<br/>
+CALM
+<br/>
+AND
+<br/>
+☢️ SUDO ☢️
 
 </h3>
 
