@@ -17,7 +17,7 @@ Working as a JamStack Developer,
 <br/>
 Researching on Machine learning.
 </h3>
-<h1><h1/>
+<h1></h1>
 👑
 <br/>
 KEEP
