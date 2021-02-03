@@ -30,5 +30,5 @@ AND
 </div>
 
 <!---
-Testing Bot !
+It's not bot just a CMS Test
 -->
