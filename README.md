@@ -9,13 +9,16 @@ I'm 👉 <a href="https://www.linkedin.com/in/juhair-islam-9b7307160/">Juhair Is
 <br/>
 <br/>
 
-I'm a 📖 Student
+
+Passionate about web,
 <br/>
-Trying on different things,
+Interested in JavaScript and Linux,
 <br/>
 Working as a JamStack Developer,
 <br/>
-Researching on Machine learning.
+Researching on Machine learning (Particle Swarm Optimization).
+<br/>
+I Love <a href="https://open.spotify.com/playlist/538rU5DkDRfIecxU51bTQg?si=f6d451a63ed24f43">Electronic Music</a>
 </h3>
 <h1></h1>
 👑
